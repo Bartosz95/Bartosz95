@@ -20,7 +20,7 @@ Check my project if you want to see my skills. Also dont hesitate to contact me
 | Check few of my projects below | |
 | --- | --- |
 |[Dice Game](https://github.com/Bartosz95/dice-game)| |
-| Currently I develop this project in my spare time. It is a simple game but is very well designed as a complex system. Application includes GUI written in React and API written in ExpressJS. There is also an authorization service delivered by Keycloak. What is more, it use two databases PostgreSQL and MongoDB with Mongo-Express. All components are deployed on Kubernetes. In my opinion it's definitely worth it to see if you want to check my skills. |<p align="center"><p align="center"><img src="https://github.com/Bartosz95/dice-game/blob/master/gui/public/img/tom1.png"></p>|
+| Currently I develop this project in my spare time. It is a great game but it is also very well designed. Application includes GUI written in React and API written in ExpressJS. There is also an authorization service delivered by Keycloak. What is more, it use two databases PostgreSQL and MongoDB with Mongo-Express. All components are deployed on Kubernetes. In my opinion it's definitely worth it to see if you want to check my skills. |<p align="center"><p align="center"><img src="https://github.com/Bartosz95/dice-game/blob/master/gui/public/img/tom1.png"></p>|
 |[Chatroom](https://github.com/Bartosz95/chat-room)| |
 |The project contains a website which allows communication between users in real time. It is based on NodeJS with the Handlebars module. Main functionality uses  WebSockets. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/chat-room/blob/master/doc/chat3.png"></p> |
 |[Medical Clinic Mananger](https://github.com/Bartosz95/medical-clinic-mananger) | |
