@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./smithy.png" width="200px;"></p>
 
-My name is Bartosz Lenartowicz and I’m a software developer currently focusing on working with web apps.
+My name is Bartosz Lenartowicz and I’m a software engineer currently focusing on working with web apps.
 
 ## TL;DR
 
