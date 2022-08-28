@@ -10,21 +10,20 @@ I started my journey from Embedded Programming.
 First I created my programs in C in STM32 Microcontrollers.
 I build line follower robots and use the PID algorithm to control it.
 
-Then I learned C++. 
-Besides console apps also built some of it Qt. 
+Then I learned C++ mot of the time i created console apps but I also built some in Qt. 
 
 Next I started learning Java. 
 I've written a few projects in it. 
 Some of them were written in JavaFX and some in Spring. 
-That time I structurise my preference for programming and I decided to choose a web developer path.
+That time I decided to choose a web developer path.
 
-I also had a short episot with PHP that time.
+I had a short episot with PHP that time.
 
 Next I started learning Python.
-I created Neutral Network by TensorFlow and web apps in Flask
+I created Neutral Network by TensorFlow, programming on Raspberry PI and build some web apps in Flask.
 
 Nowadays I focus on work with NodeJS, React and Kubernetes and it gives me a lot of satisfaction. 
-Check my project if you want to see my skills. Also don't hesitate to contact me
+Check my project if you want to see my skills. Also don't hesitate to contact me.
 
 | Check few of my projects below | |
 | --- | --- |
