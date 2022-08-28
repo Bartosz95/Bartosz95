@@ -1,6 +1,6 @@
 # Welcome to my portfolio ! 
 
-<p align="center"><img src="./folder.png" ></p>
+<p align="center"><img src="./folder.png" width="15%;" ></p>
 
 My name is Bartosz and I’m a software engineer currently focusing on working with web apps.
 
@@ -35,14 +35,14 @@ Check my project if you want to see my skills. Also don't hesitate to contact me
 |[Traffic Sign Recognition System](https://github.com/Bartosz95/TSR-system)| |
 |TSR is an acronym for Traffic Sign Recognition. Systems like that help drivers while riding in a car. In this project I created one of my own and tried to improve him. This war was more focusing on exploration and investigation of how to find the best setup. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/TSR-system/blob/master/doc/img/27center.jpg"></p> |
 |[Air Parameters Monitor](https://github.com/Bartosz95/air-parameters-monitor)| |
-|The basic assumption for the project was to inform the residents about the current air condition in the room. The information should include three parameters,temperature, humidity, pressure The values are collected and can be displayed by User Interface in real time. | <p align="center"><p align="center"><img height="30%;" src="https://github.com/Bartosz95/air-parameters-monitor/blob/master/doc/graphs.png"></p> |
+|The basic assumption for the project was to inform the residents about the current air condition in the room. The information should include three parameters,temperature, humidity, pressure The values are collected and can be displayed by User Interface in real time. | <p align="center"><p align="center"><img height="300px;" src="https://github.com/Bartosz95/air-parameters-monitor/blob/master/doc/graphs.png"></p> |
 |[House interior monitor](https://github.com/Bartosz95/house-interior-monitor)| | |
 |This project allows you to monitor your house interior. It checks your air parameters like temperature, humidity and pressure and records the rooms with cameras. Data is collected in a database and is displayed for users on the browser. System consists of one server which gives you access to data and at least one sensor which collects data. It was written in 2017. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/house-interior-monitor/blob/master/doc/rec.PNG"></p> |
 |[Medical Clinic Mananger](https://github.com/Bartosz95/medical-clinic-mananger) | |
 |It is a great application to manage medical clinics. The biggest advantage of this application is the fact that it uses two databases which can be deployed in different localizacion. Some tables are split horizontally and some vertically. See project to read more about distributed databases. Of course there is a desktop application written in JavaFX. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/medical-clinic-mananger/blob/master/doc/3.png" ></p>|
 |[KidnApp - Android App](https://github.com/Bartosz95/KidnApp)||
-KidnApp can help you be more safe. When you are in danger you can press both the volume up and volume down buttons for eight seconds and it starts sending SMS with your localization and text message to your contacts every three minutes. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/KidnApp/blob/master/Description/photo/menu.png" height="30%;"></p> |
-|[Memo Game](https://github.com/Bartosz95/memo-game)| |
-| This is a simple memo game also written in JavaFX. It is quite easy but I wrote it just for fun. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/memo-game/blob/master/description-images/game.PNG" width="200px;"></p> |
+KidnApp can help you be more safe. When you are in danger you can press both the volume up and volume down buttons for eight seconds and it starts sending SMS with your localization and text message to your contacts every three minutes. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/KidnApp/blob/master/Description/photo/menu.png" height="300px;"></p> |
 |[Linefollowers](https://github.com/Bartosz95/linefollowers)| |
-| Linefollower is a mobile robot which follows the line. My robots were built for competitions so the main aim was to allow them to move fast. Some of them were also remote controlled. I've created these robots from top to bottom by myself. It means that I designed a board, created it, soldered elements, created a program for CPU and installed it. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/linefollowers/blob/master/doc/front.jpg" width="200px;"></p> |
+|Linefollower is a mobile robot which follows the line. My robots were built for competitions so the main aim was to allow them to move fast. Some of them were also remote controlled. I've created these robots from top to bottom by myself. It means that I designed a board, created it, soldered elements, created a program for CPU and installed it. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/linefollowers/blob/master/doc/front.jpg"></p> |
+|[Memo Game](https://github.com/Bartosz95/memo-game)| |
+| This is a simple memo game also written in JavaFX. It is quite easy but I wrote it just for fun. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/memo-game/blob/master/description-images/game.PNG" height="250px;"></p> |
