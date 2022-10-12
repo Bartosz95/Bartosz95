@@ -6,23 +6,24 @@ My name is Bartosz and I’m a software engineer currently focusing on developin
 
 ## TL;DR
 
-I started my journey from Embedded Programming. 
-First I created my programs in C in STM32 Microcontrollers.
-I build line follower robots and use the PID algorithm to control it.
+I started my career as a software engineer in 2014.
+During this time I created lots of projects in many programming languages. 
+First I've learned embedded C and C++. 
+I created many programs on STM32 Microcontrollers and in Qt.
+The biggest project was a line follower robot which was self-controlled by a PID algorithm or it could be controlled remotely by bluetooth.
 
-Then I learned C++ most of the time I created console apps but I also built some in Qt. 
-
-Next I started learning Java. 
-I've written a few projects in it. 
-Some of them were written in JavaFX and some in Spring. 
-That time I decided to choose a web developer path.
+Next I started learning high-level programming languages.
+My first choice was Java. 
+I've written a few desktop applications in JavaFX and then I started to learn web developing in Spring.
 
 I had a short episode with PHP that time.
 
-Next I started learning Python.
-I created Neutral Network by TensorFlow, programming on Raspberry PI and building some web apps in Flask.
+When I was learning Spring I started learning Python parallel. I created a Neutral Network with TensorFlow, and to create some apps on Raspberry PI. 
+I've also built web apps in Flask.
 
-Nowadays I focus on work with NodeJS, React and Kubernetes and it gives me a lot of satisfaction. 
+Nowadays I focus on NodeJS, React and Kubernetes. 
+It's given me a lot of satisfaction since 2019 and I want to stay longer with these technologies. 
+
 
 | Check few of my projects below | |
 | --- | --- |
