@@ -1,47 +1,45 @@
-# Welcome to my portfolio ! 
+# Welcome to my portfolio! 
 
 <p align="center"><img src="./folder.png" width="15%;" ></p>
 
-My name is Bartosz and I’m a software engineer currently focusing on developing web applications.
+My name is Bartosz, and I am a software engineer specialising in web application development.
 
 ## TL;DR
 
-I started my career as a software engineer in 2014.
-During this time I created lots of projects in many programming languages. 
-First I've learned embedded C and C++. 
-I created many programs on STM32 Microcontrollers and in Qt.
-The biggest project was a line follower robot which was self-controlled by a PID algorithm or it could be controlled remotely by bluetooth.
+I began my career as a software engineer in 2014. 
+Over the years, I’ve developed a wide range of projects across multiple programming languages and platforms. 
+My journey started with embedded C and C++, where I focused on programming STM32 microcontrollers and building applications using Qt. 
+One of the most notable projects from this period was a self-driving line follower robot, which operated using a PID control algorithm and could also be remotely controlled via Bluetooth.
 
-Next I started learning high-level programming languages.
-My first choice was Java. 
-I've written a few desktop applications in JavaFX and then I started to learn web developing in Spring.
+As I progressed, I transitioned into high-level programming, beginning with Java. 
+I developed several desktop applications using JavaFX, and later expanded my skills into web development with the Spring framework. 
+Around this time, I also briefly explored PHP.
 
-I had a short episode with PHP that time.
+In parallel with learning Spring, I began working with Python. 
+I created a neural network using TensorFlow and developed various applications for the Raspberry Pi, as well as web applications using Flask.
 
-When I was learning Spring I started learning Python parallel. I created a Neutral Network with TensorFlow, and to create some apps on Raspberry PI. 
-I've also built web apps in Flask.
-
-Nowadays I focus on NodeJS, React and Kubernetes. 
-It's given me a lot of satisfaction since 2019 and I want to stay longer with these technologies. 
+Since 2019, my primary focus has been on modern web technologies, particularly Node.js, React, and Kubernetes. 
+These tools have become central to my work, and I find great satisfaction in building scalable and efficient applications with them. 
+I look forward to continuing to grow within this ecosystem.
 
 
-| Check few of my projects below | |
+| Please find an overview of my projects below | |
 | --- | --- |
 |[Dice Game](https://github.com/Bartosz95/dice-game)| |
-| Currently I develop this project in my spare time. It is a great game but it is also very well designed. Application includes GUI written in React and API written in ExpressJS. There is also an authorization service delivered by Keycloak. What is more, it uses two databases PostgreSQL and MongoDB with Mongo-Express. All components are deployed on Kubernetes. In my opinion it's definitely worth it to see if you want to check my skills. |<p align="center"><p align="center"><img src="https://github.com/Bartosz95/dice-game/blob/master/gui/public/img/tom1.png"></p>|
+| This is the latest project I was developing in my spare time. It’s a well-designed and engaging game that showcases both technical depth and thoughtful architecture. The application features a React-based GUI and a backend API built with ExpressJS. It also integrates Keycloak for authentication and authorisation. The system utilises both PostgreSQL and MongoDB for data storage, with Mongo-Express included for database management. All components are containerised and deployed on a Kubernetes cluster. I believe this project provides a solid representation of my skills and would be worth exploring if you're interested in assessing my technical capabilities. |<p align="center"><p align="center"><img src="https://github.com/Bartosz95/dice-game/blob/master/gui/public/img/tom1.png"></p>|
 |[Chatroom](https://github.com/Bartosz95/chat-room)| |
-|The project contains a website which allows communication between users in real time. It is based on NodeJS with the Handlebars module. Main functionality uses  WebSockets. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/chat-room/blob/master/doc/chat3.png"></p> |
+|The project features a real-time communication website built using Node.js and the Handlebars templating engine. Its core functionality is powered by WebSockets to enable seamless user interaction. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/chat-room/blob/master/doc/chat3.png"></p> |
 |[Traffic Sign Recognition System](https://github.com/Bartosz95/traffic-sign-recognition)| |
-|Systems like that help drivers while riding in a car. In this project I created one of my own and tried to improve him. This war was more focusing on exploration and investigation of how to find the best setup. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/traffic-sign-recognition/blob/master/doc/img/27center.jpg"></p> |
+|Such systems are designed to assist drivers during vehicle operation. In this project, I developed a custom system and focused on enhancing its performance. The primary objective was to explore and investigate methods for identifying the most effective configuration. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/traffic-sign-recognition/blob/master/doc/img/27center.jpg"></p> |
 |[Air Parameters Monitoring System](https://github.com/Bartosz95/air-parameters-monitoring)| |
-|The basic assumption for the project was to inform the residents about the current air condition in the room. The information should include three parameters,temperature, humidity, pressure The values are collected and can be displayed by User Interface in real time. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/air-parameters-monitoring/blob/master/doc/graphs2.png"></p> |
+|These systems assist drivers during vehicle operation. In this project, I developed one of my own and focused on enhancing its performance. The primary objective was to explore and investigate methods for identifying the optimal setup. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/air-parameters-monitoring/blob/master/doc/graphs2.png"></p> |
 |[House Interior Monitoring System](https://github.com/Bartosz95/house-interior-monitor)| | |
-|This project allows you to monitor your house interior. It checks your air parameters like temperature, humidity and pressure and records the rooms with cameras. Data is collected in a database and is displayed for users on the browser. System consists of one server which gives you access to data and at least one sensor which collects data. It was written in 2017. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/house-interior-monitor/blob/master/doc/rec.PNG"></p> |
+|This project provides a comprehensive solution for monitoring the interior environment of a home. It tracks key air quality parameters such as temperature, humidity, and pressure, while also capturing video footage from designated rooms using cameras. All collected data is stored in a centralised database and presented to users through a web-based interface. The system architecture includes a single server that manages data access and at least one sensor unit responsible for data collection. The project was originally developed in 2017. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/house-interior-monitor/blob/master/doc/rec.PNG"></p> |
 |[Medical Clinics Mananger](https://github.com/Bartosz95/medical-clinics-mananger) | |
-|It is a great application to manage medical clinics. The biggest advantage of this application is the fact that it uses two databases which can be deployed in different localizacion. Some tables are split horizontally and some vertically. See project to read more about distributed databases. Of course there is a desktop application written in JavaFX. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/medical-clinics-mananger/blob/master/doc/3.png" ></p>|
-|[KidnApp - Android App](https://github.com/Bartosz95/KidnApp)||
-KidnApp can help you be more safe. When you are in danger you can press both the volume up and volume down buttons for eight seconds and it starts sending SMS with your localization and text message to your contacts every three minutes. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/KidnApp/blob/master/Description/photo/menu.png" WIDTH="180px;"></p> |
+|This application provides an efficient solution for managing medical clinics. A key advantage lies in its use of two separate databases, which can be deployed across different locations. The data is distributed using both horizontal and vertical partitioning, depending on the table structure. For more details on the distributed database architecture, please refer to the project documentation. Additionally, the system includes a desktop application developed using JavaFX. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/medical-clinics-mananger/blob/master/doc/3.png" ></p>|
+|[KidnApp - Android App](https://github.com/Bartosz95/KidnApp)| |
+|KidnApp enhances your personal safety by providing an emergency alert feature. In the event of danger, pressing both the volume up and volume down buttons simultaneously for eight seconds will activate the app. Once activated, it will automatically send SMS messages containing your location and a predefined alert message to your selected contacts every three minutes. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/KidnApp/blob/master/Description/photo/menu.png" WIDTH="180px;"></p> |
 |[Linefollowers](https://github.com/Bartosz95/linefollowers)| |
-|Linefollower is a mobile robot which follows the line. My robots were built for competitions so the main aim was to allow them to move fast. Some of them were also remote controlled. I've created these robots from top to bottom by myself. It means that I designed a board, created it, soldered elements, created a program for CPU and installed it. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/linefollowers/blob/master/doc/front.jpg"></p> |
+|The Linefollower is a mobile robot designed to follow a designated path. My robots were primarily developed for competitive purposes, with a key focus on optimising their speed. Some models also featured remote control capabilities. I independently managed the entire development process, including designing the circuit board, fabricating and soldering the components, programming the microcontroller, and deploying the software. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/linefollowers/blob/master/doc/front.jpg"></p> |
 |[Memo Game](https://github.com/Bartosz95/memo-game)| |
-| This is a simple memo game also written in JavaFX. It is quite easy but I wrote it just for fun. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/memo-game/blob/master/description-images/game.PNG" width="230px;"></p> |
+|This is a straightforward memo game developed using JavaFX. While the game is relatively simple, it was created primarily as a recreational project. | <p align="center"><p align="center"><img src="https://github.com/Bartosz95/memo-game/blob/master/description-images/game.PNG" width="230px;"></p> |
